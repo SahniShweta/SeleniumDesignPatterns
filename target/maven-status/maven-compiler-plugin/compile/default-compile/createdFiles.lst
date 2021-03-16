@@ -1,0 +1,8 @@
+DesignPatterns\PageComponents\RoundTrip.class
+DesignPatterns\PageComponents\NavigationBar.class
+DesignPatterns\AbstractComponents\SearchFlightAvailability.class
+DesignPatterns\PageObjects\TravelHomePage.class
+DesignPatterns\AbstractComponents\StrategyFactor.class
+DesignPatterns\PageComponents\FooterNav.class
+DesignPatterns\AbstractComponents\AbstractComponent.class
+DesignPatterns\PageComponents\MultiTrip.class
